@@ -6,15 +6,6 @@ Boot Camp Prework Study Guide for Students
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. This Prework Study Guide should help you choose key points in the lessons you will learn through the Prework assignemnets. The project was buikt to help student get a glimpse of important key factors in the Prework lessons. You learn a lot of new information and it almost seem foreign at first, but if you take some key components it will all seem like you belong in this world you ahve entered. It contains notes on HTML, CSS, Git, and JavaScript.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
